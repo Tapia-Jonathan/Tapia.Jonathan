@@ -1,4 +1,17 @@
-.about-section{
-    background-color: aqua;
+*{
+    margin: 0;
+    padding: 0;
 }
 
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+.about-section{
+    background-color: rgb(151, 144, 144);
+    padding: 2%
+}
+ .about-section h2{
+    font-size: 45px;
+ }
